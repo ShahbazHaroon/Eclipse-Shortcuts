@@ -3,7 +3,7 @@ Eclipse Keyboard Shortcuts for Java Programmer
 
 <table>
   <tbody>
-	  <tr><td><strong>Ctrl + Shift + T</strong></td><td>For Finding Class Even From Jar</td><td>Eclipse is my most used and favorite shortcut. While working with a high-speed trading system which has a complex code. No matter whether you have class in your application or inside any JAR, this shortcut will find it</td></tr>
+	  <tr><td><strong>Ctrl+Shift+T</strong></td><td>For Finding Class Even From Jar</td><td>Eclipse is my most used and favorite shortcut. While working with a high-speed trading system which has a complex code. No matter whether you have class in your application or inside any JAR, this shortcut will find it</td></tr>
 	<tr><td><strong>Ctrl + Shift + R</strong></td><td>For Finding Any Resource (File) Including Config Xml Files</td><td>Eclipse shortcut with the only difference that it can find out not only Java files but any files including XML, configs, and many others, but this eclipse shortcut only finds files from your workspace and doesn’t dig at jar level</td></tr>
 	<tr><td><strong>Ctrl + 1</strong></td><td>For Quick Fix</td><td>Eclipse shortcut which can fix up any error for you in Eclipse. Whether it’s missing declaration, missing semi-colon or any import related error this eclipse shortcut will help you to quickly sort that out</td></tr>
 	<tr><td><strong>Ctrl + Shift + O</strong></td><td>For Organize Imports</td><td>Eclipse keyboard shortcut for fixing missing imports. Particularly helpful if you copy some code from other file and what to import all dependencies</td></tr>
