@@ -29,7 +29,7 @@ Eclipse Keyboard Shortcuts for Java Programmer
 	<tr><td><strong>Ctrl + Q</strong></td><td>For Going To Last Edited Place</td></tr>
 	<tr><td><strong>Ctrl + T</strong></td><td>For Toggling Between Supertype And Subtype</td></tr>
 	<tr><td><strong>Ctrl + E</strong></td><td>Go To Other Open Editors</td></tr>
-	<tr><td><strong>Alt + ? And Alt + ?</strong></td><td>Hop Back And Forth Through The Files You Have Visited</td></tr>
+	<tr><td><strong>Alt + Arrow Left And Alt + Arrow Right</strong></td><td>Hop Back And Forth Through The Files You Have Visited</td></tr>
 	<tr><td><strong>Ctrl + Shift + G</strong></td><td>Searches The Workspace For References To The Selected Method Or Variable</td></tr>
 	<tr><td><strong>Ctrl + Shift + L</strong></td><td>To View The Listing For All Eclipse Keyboard Shortcuts</td></tr>
 	<tr><td><strong>Alt + Shift + J</strong></td><td>To Add Javadoc At Any Place In Java Source File</td></tr>
